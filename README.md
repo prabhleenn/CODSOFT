@@ -7,12 +7,12 @@ Welcome to my repository for submitting tasks during my internship journey! Here
     - Organized files for each task, with clear documentation and code.
   
 📁 Project Description:
-- TASK 1: CUSTOMER CHURN PREDICTION
-          Overview - A model to predict customer churn for a subscription- based service or business. Used historical customer data, including       
+<br> - TASK 1: CUSTOMER CHURN PREDICTION
+     <br> Overview - A model to predict customer churn for a subscription- based service or business. Used historical customer data, including       
           features like usage behavior and customer demographics.
-          Algorithms Used - Random Forest and Gradient Boosting to predict churn.
-          Features -> Implementation of Random Forest classifier for churn prediction.
-                   -> Utilization of Gradient Boosting classifier for accurate churn prediction.
-                   -> Evaluation of model performance using relevant metrics (accuracy, precision, recall, F1-score).
+  <br>    Algorithms Used - Random Forest and Gradient Boosting to predict churn.
+  <br>    Features -> Implementation of Random Forest classifier for churn prediction.
+           <br>    -> Utilization of Gradient Boosting classifier for accurate churn prediction.
+            <br>   -> Evaluation of model performance using relevant metrics (accuracy, precision, recall, F1-score).
   
   
