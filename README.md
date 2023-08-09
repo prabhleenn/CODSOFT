@@ -24,7 +24,7 @@ Welcome to my repository! Here, you'll find the collection of the tasks that I'v
               It is a model which distinguishes between legitimate messages and spam messages.
               Classifier Used - Naive Bayes and Multinomial Naive Bayes for the prediction.
               Features- 1) Preprocessed and cleaned a diverse SMS dataset, transforming text into numerical features for the model.
-                        2) Employed the Naive Bayes algorithm, to differentiate spam and non-spam messages.
+                        2) Employed Naive Bayes classifier, to differentiate spam and non-spam messages.
                         3) Achieved an accuracy of 98% in classifying SMS messages as spam or not spam.
   
   
