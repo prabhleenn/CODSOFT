@@ -27,6 +27,7 @@ Welcome to my repository! Here, you'll find the collection of the tasks that I'v
                         2) Employed Naive Bayes classifier, to differentiate spam and non-spam messages.
                         3) Achieved an accuracy of 98% in classifying SMS messages as spam or not spam.
 
+
     - TASK 3: CREDIT CARD FRAUD DETECTION
               Overview - Built a model to identify fraudulent transactions in a dataset of historical credit card transactions to prevent         
               unauthorized usage & protect both consumers and financial institutions.
