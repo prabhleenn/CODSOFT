@@ -31,7 +31,10 @@ Welcome to my repository! Here, you'll find the collection of the tasks that I'v
               Overview - Built a model to identify fraudulent transactions in a dataset of historical credit card transactions to prevent         
               unauthorized usage & protect both consumers and financial institutions.
               Algorithms & Classifier Used - Logistic Regression & Random Forest Classifier
-              Features- 1) 
+              Features- 1) Provided a clear understanding of how individual features contribute to the prediction of fraud.
+                        2) Evaluation of model performance using relevant metrics (accuracy, precision, recall, F1-score).
+                        3) The dataset is split into two parts: Training & Testing to evaluate their performance better.
+                        4) Random Forest is used to capture complex relationships in the data and handling nonlinearities.
 
         
   
